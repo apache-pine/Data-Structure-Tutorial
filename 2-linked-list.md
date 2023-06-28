@@ -7,3 +7,7 @@
 ## Example:
 
 ## Problem:
+
+[Return to Welcome Page](./0-welcome.md)
+<strong>OR</strong>
+[Continue to Next Module: Trees](./3-tree.md)
