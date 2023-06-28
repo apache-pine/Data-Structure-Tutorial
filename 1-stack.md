@@ -35,7 +35,7 @@ class Stack:
 
 The push method adds an item to the top of the stack, the pop method removes and returns the top item, the size method returns the number of items in the stack, and the is_empty method checks if the stack is empty. All of these operations have a time complexity of O(1).
 
-## Example: Solving a problem using a Stack
+## Example: Checking Balanced Parentheses
 
 Let's consider an example problem of checking balanced parentheses in an expression using a stack. The problem is to determine if the parentheses in the given expression are balanced or not. Here's the step-by-step solution using stack operations:
 
@@ -72,7 +72,7 @@ else:
     print("The expression is not balanced.")
 ```
 
-## Problem to Solve (Stack)
+## Problem: Reversing a String
 
 For this problem, let's consider the task of reversing a string using a stack. You need to write a program that takes a string as input, uses a stack to reverse the string, and prints the reversed string as output. Here's an example of the expected behavior:
 
