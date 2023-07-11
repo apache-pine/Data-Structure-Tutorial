@@ -124,8 +124,7 @@ class Tree:
         return self.root is None
 ```
 
-The Tree class has methods to insert a node, remove a node, check if a node exists, traverse the tree in a forward or reverse manner, get the size of the tree, and check if the tree is empty. These operations have different time complexities depending on the tree structure and size. Insert, remove, and contains operations have a time complexity of O(log n) for a balanced tree and O(n) for an unbalanced tree. The traverse_forward and traverse_reverse operations have a time complexity of O(n). The size and is_empty operations have a time complexity of O(1).
-
+The time complexity for these functions are as follows. Insert, remove, and contains have a time complexity of O(log n) for a balanced tree and O(n) for an unbalanced tree. Traverse_forward and traverse_reverse have a time complexity of O(n). Size and is_empty have a time complexity of O(1).
 However, more often than not, you'll want to use a BST. The code to implement a BST is a little different:
 
 ```python
@@ -317,8 +316,6 @@ print(bst.count_leaves())
 ```
 
 You can try to solve this problem on your own. Once you have a solution or if you need help, you can find the solution here: [Solution](./python%20files/tree-solution.py)
-
-Remember to use tree operations (contains) to solve the problem.
 
 That concludes the tutorial on the Tree data structure. You have learned about the characteristics of a tree, its implementation in Python, and how to solve a problem using a tree. This was the final module and concludes the tutorial. Congratulations on completing the tutorial!
 

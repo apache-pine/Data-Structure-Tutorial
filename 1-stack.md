@@ -6,7 +6,11 @@ A stack is a data structure that follows the Last-In, First-Out (LIFO) principle
 
 A common way to think of a stack is to imagine a stack of books. You can add a new book to the top of the stack or remove a book from the top of the stack. You can't add or remove a book from the middle of the stack. The last book you add to the stack is the first book you can remove from the stack.
 
-![Stack diagram](./images/stack-diagram.jpg)
+<picture style="width: 100%; display: flex; justify-content: center;">
+    <img src="images/stack-diagram.jpg" style="border:2px black solid; padding: 1rem; width: 70%;">
+</picture>
+<label><strong>Stack diagram</strong></label>
+<br /><br />
 
 ## Implementation of Stack in Python
 
@@ -82,8 +86,6 @@ string = "Hello, world!"
 ```
 
 You can try to solve this problem on your own. Once you have a solution or if you need help, you can find the solution here: [Solution](./python%20files/stack-solution.py)
-
-Remember to use stack operations (push, pop, is_empty, size) to solve the problem.
 
 That concludes the tutorial on the Stack data structure. You have learned about the characteristics of a stack, its implementation in Python, and how to solve a problem using a stack. In the next module, you will learn about another type of data structure called a linked list.
 

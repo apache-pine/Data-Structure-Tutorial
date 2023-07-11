@@ -5,7 +5,7 @@
 A linked list is a data structure that consists of a sequence of nodes, where each node contains data and a reference to the next node in the sequence.
 
 <picture style="width: 100%; display: flex; justify-content: center;">
-    <img src="images/linked-list-node-diagram.jpg" style="border:2px black solid; padding: 1rem 0rem 1rem 1.5rem; width: 90%;">
+    <img src="images/linked-list-node-diagram.jpg" style="border:2px black solid; padding: 1rem 0rem 1rem 1.5rem; width: 80%;">
 </picture>
 <label><strong>Linked List Node</strong></label>
 <br /><br />
@@ -13,13 +13,12 @@ A linked list is a data structure that consists of a sequence of nodes, where ea
 Unlike arrays, linked lists do not have a fixed size and allow efficient insertion and removal of elements at any position. Linked lists can be implemented as singly linked lists, where each node only has a reference to the next node, or as doubly linked lists, where each node has references to both the next and previous nodes.
 
 <picture style="width: 100%; display: flex; justify-content: center;">
-    <img src="images/linked-list-diagram.jpg" style="border:2px black solid; padding: 1rem 1.75rem 1rem 1rem; width: 90%;">
+    <img src="images/linked-list-diagram.jpg" style="border:2px black solid; padding: 1rem 1.75rem 1rem 1rem; width: 80%;">
 </picture>
 <label><strong>Singly Linked List</strong></label>
-<br />
 <hr />
 <picture style="width: 100%; display: flex; justify-content: center;">
-    <img src="images/doubly-linked-list-diagram.jpg" style="border:2px black solid; padding: 1rem 1rem 1rem 1rem; width: 90%;">
+    <img src="images/doubly-linked-list-diagram.jpg" style="border:2px black solid; padding: 1rem 1rem 1rem 1rem; width: 80%;">
 </picture>
 <label><strong>Doubly Linked List</strong></label>
 <br /><br />
