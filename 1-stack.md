@@ -85,7 +85,7 @@ You can try to solve this problem on your own. Once you have a solution or if yo
 
 Remember to use stack operations (push, pop, is_empty, size) to solve the problem.
 
-That concludes the tutorial on the Stack data structure. You have learned about the characteristics of a stack, its implementation in Python, and how to solve a problem using a stack.
+That concludes the tutorial on the Stack data structure. You have learned about the characteristics of a stack, its implementation in Python, and how to solve a problem using a stack. In the next module, you will learn about another type of data structure called a linked list.
 
 [Return to Welcome Page](./0-welcome.md)
 <strong>OR</strong>
