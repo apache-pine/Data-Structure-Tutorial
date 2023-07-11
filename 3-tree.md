@@ -16,12 +16,12 @@ A binary search tree (BST) is a type of tree where each node has at most two chi
 
 Binary search trees are commonly used in scenarios where elements need to be maintained in a sorted order. They provide an efficient way to perform operations such as finding the minimum or maximum value, searching for a specific element, or performing range queries.
 
-Here's an example of a binary search tree:
+Here's an example of a binary search tree (BST) that is fully sorted:
 
 <picture style="width: 100%; display: flex; justify-content: center;">
-    <img src="images/binary-search-tree-diagram.jpg" style="border:2px black solid; padding: 1rem; width: 90%;">
+    <img src="images/sorted-bst-diagram.jpg" style="border:2px black solid; padding: 1rem; width: 90%;">
 </picture>
-<label><strong>Binary Search Tree Diagram</strong></label>
+<label><strong>Sorted Binary Search Tree Diagram</strong></label>
 <br /><br />
 
 ## Implementation of Tree in Python
@@ -33,7 +33,6 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.children = []
-
 
 class Tree:
     def __init__(self):
